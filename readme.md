@@ -1,7 +1,2 @@
 #hi
 
-#hello
-
-#blah!!
-
-#yuck
