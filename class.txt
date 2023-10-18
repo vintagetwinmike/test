@@ -5,6 +5,5 @@ Cyan
 Yellow
 Ivory
 
-Rach!
-India
-working on Git
+Endrit
+Front End Development
