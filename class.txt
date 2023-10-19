@@ -8,4 +8,4 @@ Ivory
 Rach!
 India
 working on Git
-hey there my name is Gaston and I'm from Mexico, and I am taking the Front-End certification 
+hey there my name is Gaston and I'm from Mexico.
