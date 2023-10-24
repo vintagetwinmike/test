@@ -11,18 +11,3 @@ Fuchsia
 Purple
 Brown
 Red
-:qw
-:wq
-qw:
-wq:
-
-
-
-:wq\
-:w
-:wq
-:q
-:q
-:q
-i
-cat -help
