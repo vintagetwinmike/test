@@ -1,10 +1,17 @@
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
 
-Rach!
-India
-working on Git
+Danial!
+Pakistan
+working on Git and GitHub
