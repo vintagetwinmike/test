@@ -4,7 +4,9 @@ Green
 Cyan
 Yellow
 Ivory
-
+Rose
+Texas
+Front End Web Development
 Rach!
 India
 working on Git
