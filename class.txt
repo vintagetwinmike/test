@@ -1,10 +1,2 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
-
-Rach!
-India
-working on Git
+Oluwaseun
+Working to get cert on Frontend Development
