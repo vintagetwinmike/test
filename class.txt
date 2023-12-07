@@ -8,3 +8,6 @@ Ivory
 Rach!
 India
 working on Git
+
+Isael
+Learning Front-End
