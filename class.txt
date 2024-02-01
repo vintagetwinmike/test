@@ -8,3 +8,6 @@ Ivory
 Rach!
 India
 working on Git
+
+Kishore
+Meta frontend developer certification
