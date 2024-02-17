@@ -5,6 +5,6 @@ Cyan
 Yellow
 Ivory
 
-Rach!
-India
+Noah
+Practicing in Git
 working on Git
