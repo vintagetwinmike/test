@@ -1,10 +1,5 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
+Vlad
 
-Rach!
-India
-working on Git
+Ahuisculco
+
+Coursera Meta Frontend
