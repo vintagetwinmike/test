@@ -1,2 +1,13 @@
-Luis E. Fernández Mtz
-Meta Back-End Software Engineer
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
