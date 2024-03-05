@@ -1,10 +1,2 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
-
-Rach!
-India
-working on Git
+Luis Fernández
+Meta Back-End Developer
